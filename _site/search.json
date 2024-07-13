@@ -41,53 +41,43 @@
     } ,
     
   {
-    "title"    : "Panduan Praktis: Cara Mengatasi Penyakit Tungro pada Tanaman Padi",
-    "image"    : "/img/tungro_padi.jpg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, hama, wereng, batang, coklat, konsultan, ketahanan, pangan",
-    "url"      : "/articles/panduan-praktis-cara-mengatasi-penyakit-tungro-pada-tanaman-padi",
-    "date"     : "2024-07-10 00:00:00 +0700",
-    "desc"     : "Penyakit tungro pada padi menjadi salah satu ancaman utama bagi pertanian padi di Indonesia. Penyakit ini disebabkan oleh dua jenis virus yang ditularkan oleh wereng hijau, yang dapat menyebabkan penurunan hasil panen secara drastis bahkan hingga gagal panen. Dampak dari penyakit tungro tidak hanya merugikan secara ekonomi tetapi juga mengancam ketahanan pangan nasional. Artikel ini hadir untuk memberikan panduan lengkap dan praktis bagi petani dalam menghadapi penyakit tungro, dari mengenali gejala awal, strategi pencegahan yang efektif, hingga metode pengendalian yang dapat diandalkan."
-    } ,
-    
-  {
-    "title"    : "Panduan Praktis: Cara Mengatasi Penyakit Blast pada Tanaman Padi",
-    "image"    : "/img/blast_padi.jpg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, hama, wereng, batang, coklat, konsultan, ketahanan, pangan",
-    "url"      : "/articles/panduan-praktis-cara-mengatasi-penyakit-blast-pada-tanaman-padi",
-    "date"     : "2024-07-10 00:00:00 +0700",
-    "desc"     : "Penyakit blast padi, yang disebabkan oleh jamur Magnaporthe oryzae, merupakan ancaman serius bagi tanaman padi di Indonesia. Penyakit ini dapat menyerang berbagai bagian tanaman padi, termasuk daun, batang, dan malai, sehingga menyebabkan penurunan hasil panen yang signifikan. Dampaknya sangat merugikan bagi petani, karena penyakit ini dapat mengakibatkan gagal panen jika tidak ditangani dengan tepat. Oleh karena itu, memahami cara mengidentifikasi, mencegah, dan mengendalikan penyakit blast padi sangat penting bagi keberlangsungan usaha pertanian padi di Indonesia."
-    } ,
-    
-  {
-    "title"    : "Panduan Praktis: Cara Mengatasi Hama Wereng Coklat pada Tanaman Padi",
-    "image"    : "/img/wbc_padi.jpg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, hama, wereng, batang, coklat, konsultan, ketahanan, pangan",
-    "url"      : "/articles/panduan-praktis-cara-mengatasi-hama-wereng-coklat-pada-tanaman-padi",
-    "date"     : "2024-07-10 00:00:00 +0700",
-    "desc"     : "Hama wereng coklat (Nilaparvata lugens) merupakan salah satu ancaman terbesar bagi tanaman padi di Indonesia. Serangga ini menyerang tanaman padi dengan cara menghisap cairan dari batang dan daun, yang tidak hanya menyebabkan tanaman menjadi layu dan menguning, tetapi juga dapat mengakibatkan tanaman mati jika serangan terjadi dalam skala besar. Kerugian yang diakibatkan oleh serangan wereng coklat sangat signifikan, mulai dari penurunan hasil panen yang drastis hingga risiko gagal panen yang mengancam kesejahteraan petani."
-    } ,
-    
-  {
-    "title"    : "Mengenal Jenis Hama dan Penyakit Tanaman Padi: Gejala, Dampak, dan Strategi Pengendalian Efektif",
+    "title"    : "Understanding Types of Rice Plant Pests and Diseases: Symptoms, Impacts, and Effective Control Strategies",
     "image"    : "/img/hpt_utama_padi.jpg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, padi, dampak, ekonomi, konsultan, ketahanan, pangan",
-    "url"      : "/articles/mengenal-jenis-hama-dan-penyakit-tanaman-padi-gejala-dampak-dan-strategi-pengendalian-efektif",
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, rice, economic, impact, food, security, consultant",
+    "url"      : "/articles/understanding-types-of-rice-plant-pests-and-diseases-symptoms-impacts-and-effective-control-strategies",
     "date"     : "2024-07-10 00:00:00 +0700",
-    "desc"     : "Tanaman padi merupakan salah satu tanaman pangan utama di Indonesia dan negara-negara lain di dunia. Kehidupan sehari-hari banyak masyarakat bergantung pada hasil panen padi. Namun, tantangan besar bagi petani adalah serangan hama dan penyakit yang dapat mengancam produktivitas tanaman. Artikel ini akan membahas secara komprehensif berbagai jenis hama dan penyakit yang sering menyerang tanaman padi. Kami akan menguraikan gejala masing-masing serangan ini serta dampaknya yang dapat signifikan terhadap pertumbuhan dan hasil panen, sehingga memberikan pemahaman yang mendalam kepada pembaca tentang betapa pentingnya pengelolaan hama dan penyakit dalam pertanian padi."
+    "desc"     : "Rice plants are one of the main food crops in Indonesia and other countries in the world. The daily lives of many people depend on the rice harvest. However, a major challenge for farmers is the attack of pests and diseases that can threaten crop productivity. This article will comprehensively discuss the various types of pests and diseases that often attack rice plants. We will outline the symptoms of each of these attacks and their significant impacts on growth and yield, providing readers with a deeper understanding of the importance of pest and disease management in rice farming."
     } ,
     
   {
-    "title"    : "Strategi Peningkatan Produktivitas Tanaman Jagung melalui Teknologi Tepat Guna",
-    "image"    : "/img/agribisnis_jagung.jpg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, agribisnis, jagung, konsultan, ketahanan, pangan",
-    "url"      : "/articles/strategi-peningkatan-produktivitas-tanaman-jagung-melalui-teknologi-tepat-guna",
-    "date"     : "2024-07-08 00:00:00 +0700",
-    "desc"     : "Penggunaan teknologi tepat guna dalam budidaya tanaman jagung memiliki potensi besar untuk meningkatkan produktivitas secara signifikan. Teknologi seperti sistem pemantauan berbasis sensor memungkinkan petani untuk memantau kondisi lahan dan tanaman secara real-time, sehingga mereka dapat mengidentifikasi masalah seperti kekurangan air atau serangan hama lebih awal dan mengambil tindakan yang diperlukan dengan cepat. Dengan pemantauan yang lebih baik, petani dapat mengoptimalkan penggunaan sumber daya dan memastikan tanaman mereka tumbuh dalam kondisi terbaik."
+    "title"    : "Practical Guide: How to Overcome Tungro Disease in Rice Plants",
+    "image"    : "/img/tungro_padi.jpg",    
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, brown, planthopper, pest, food, security, consultant",
+    "url"      : "/articles/practical-guide-how-to-overcome-tungro-disease-in-rice-plants",
+    "date"     : "2024-07-10 00:00:00 +0700",
+    "desc"     : "Tungro disease in rice is one of the main threats to rice farming in Indonesia. This disease is caused by two types of viruses transmitted by green planthoppers, which can cause a drastic decrease in yields and even crop failure. The impact of tungro disease is not only economically detrimental but also threatens national food security. This article is here to provide a complete and practical guide for farmers in dealing with tungro disease, from recognizing early symptoms, effective prevention strategies, to reliable control methods."
+    } ,
+    
+  {
+    "title"    : "Practical Guide: How to Overcome Brown Planthopper Pests in Rice Plants",
+    "image"    : "/img/wbc_padi.jpg",    
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, brown, planthopper, pests, food, security, consultants",
+    "url"      : "/articles/practical-guide-how-to-overcome-brown-planthopper-pests-in-rice-plants",
+    "date"     : "2024-07-10 00:00:00 +0700",
+    "desc"     : "Brown planthopper pests (Nilaparvata lugens) are one of the biggest threats to rice plants in Indonesia. This insect attacks rice plants by sucking fluids from stems and leaves, which not only causes plants to wilt and turn yellow, but can also cause plants to die if the attack occurs on a large scale. The losses caused by brown planthopper attacks are very significant, ranging from a drastic decrease in yields to the risk of crop failure that threatens the welfare of farmers."
+    } ,
+    
+  {
+    "title"    : "Practical Guide: How to Overcome Blast Disease in Rice Plants",
+    "image"    : "/img/blast_padi.jpg",    
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, brown, planthopper, pests, food, security, consultant",
+    "url"      : "/articles/practical-guide-how-to-overcome-blast-disease-in-rice-plants",
+    "date"     : "2024-07-10 00:00:00 +0700",
+    "desc"     : "Rice blast disease, caused by the fungus Magnaporthe oryzae, is a serious threat to rice plants in Indonesia. This disease can attack various parts of the rice plant, including leaves, stems, and panicles, causing a significant decrease in yields. The impact is very detrimental to farmers, because this disease can cause crop failure if not handled properly. Therefore, understanding how to identify, prevent, and control rice blast disease is very important for the sustainability of rice farming businesses in Indonesia."
     } ,
     
   {
@@ -111,23 +101,33 @@
     } ,
     
   {
-    "title"    : "Rantai Pasok Gabah di Industri Beras: Dari Petani hingga Pabrik Beras",
-    "image"    : "/img/rantai_pasok_gabah.jpg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, padi, dampak, ekonomi, konsultan, ketahanan, pangan",
-    "url"      : "/articles/rantai-pasok-gabah-di-industri-beras-dari-petani-hingga-pabrik-beras",
-    "date"     : "2024-07-07 00:00:00 +0700",
-    "desc"     : "Industri beras di Indonesia memainkan peran vital dalam perekonomian dan ketahanan pangan nasional. Sebagai salah satu produsen beras terbesar di dunia, Indonesia mengandalkan rantai pasok gabah yang kompleks dan melibatkan banyak pihak. Proses ini dimulai dari petani yang menanam dan memanen padi, kemudian gabah dikumpulkan oleh pengepul, diproses oleh pengepul beras, dan akhirnya diolah di pabrik beras sebelum sampai ke konsumen. Setiap tahap dalam rantai pasok ini memiliki peran penting dan tantangan tersendiri yang harus diatasi untuk memastikan ketersediaan beras berkualitas bagi masyarakat."
+    "title"    : "Corn Productivity Improvement Strategy through Appropriate Technology",
+    "image"    : "/img/agribisnis_jagung.jpg",    
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, corn, agribusiness, food, security, consultant",
+    "url"      : "/articles/corn-productivity-improvement-strategy-through-appropriate-technology",
+    "date"     : "2024-07-08 00:00:00 +0700",
+    "desc"     : "The use of appropriate technology in corn cultivation has great potential to significantly increase productivity. Technologies such as sensor-based monitoring systems allow farmers to monitor land and crop conditions in real-time, so they can identify problems such as water shortages or pest attacks early and take necessary action quickly. With better monitoring, farmers can optimize the use of resources and ensure their crops grow in the best conditions."
     } ,
     
   {
-    "title"    : "Inovasi dalam Budidaya Padi: Teknologi Maju, Ramah Lingkungan, dan Presisi",
+    "title"    : "Innovation in Rice Cultivation: Advanced Technology, Environmentally Friendly, and Precision",
     "image"    : "/img/tanaman_padi.jpg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, padi, dampak, ekonomi, konsultan, ketahanan, pangan",
-    "url"      : "/articles/inovasi-dalam-budidaya-padi-teknologi-maju-ramah-lingkungan-dan-presisi",
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, rice, economic, impact, food, security, consultant",
+    "url"      : "/articles/innovation-in-rice-cultivation-advanced-technology-environmentally-friendly-and-precision",
     "date"     : "2024-07-07 00:00:00 +0700",
-    "desc"     : "Pertanian padi telah menjadi tulang punggung bagi banyak negara, termasuk Indonesia, dalam memenuhi kebutuhan pangan. Transformasi besar dalam praktik pertanian ini tidak terlepas dari pengembangan teknologi budidaya yang terus berkembang. Artikel ini akan secara mendalam mengulas tentang bagaimana teknologi budidaya padi yang maju, ramah lingkungan, dan presisi telah mengubah lanskap pertanian modern. Kami akan menjelaskan secara rinci bagaimana inovasi-inovasi ini tidak hanya meningkatkan produktivitas tanaman padi tetapi juga mendorong praktik pertanian yang berkelanjutan di Indonesia, menciptakan sebuah masa depan yang lebih cerah bagi sektor pertanian."
+    "desc"     : "Rice farming has become the backbone for many countries, including Indonesia, in meeting food needs. This major transformation in agricultural practices is inseparable from the development of cultivation technology that continues to grow. This article will review in depth how advanced, environmentally friendly, and precise rice cultivation technology has changed the landscape of modern agriculture. We will explain in detail how these innovations not only increase rice crop productivity but also encourage sustainable farming practices in Indonesia, creating a brighter future for the agricultural sector."
+    } ,
+    
+  {
+    "title"    : "Grain Supply Chain in the Rice Industry: From Farmers to Rice Mills",
+    "image"    : "/img/rantai_pasok_gabah.jpg",    
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, rice, economic, impact, food, security, consultant",
+    "url"      : "/articles/grain-supply-chain-in-the-rice-industry-from-farmers-to-rice-mills",
+    "date"     : "2024-07-07 00:00:00 +0700",
+    "desc"     : "The rice industry in Indonesia plays a vital role in the economy and national food security. As one of the largest rice producers in the world, Indonesia relies on a complex grain supply chain that involves many parties. This process starts from farmers who plant and harvest rice, then the grain is collected by collectors, processed by rice collectors, and finally processed in rice mills before reaching consumers. Each stage in the supply chain has its own important role and challenges that must be overcome to ensure the availability of quality rice for the community."
     } ,
     
   {

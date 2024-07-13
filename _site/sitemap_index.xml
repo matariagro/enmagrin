@@ -22,28 +22,23 @@
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:4000/articles/panduan-praktis-cara-mengatasi-penyakit-tungro-pada-tanaman-padi</loc>
+    <loc>http://localhost:4000/articles/understanding-types-of-rice-plant-pests-and-diseases-symptoms-impacts-and-effective-control-strategies</loc>
     <lastmod>2024-07-10</lastmod>
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:4000/articles/panduan-praktis-cara-mengatasi-penyakit-blast-pada-tanaman-padi</loc>
+    <loc>http://localhost:4000/articles/practical-guide-how-to-overcome-tungro-disease-in-rice-plants</loc>
     <lastmod>2024-07-10</lastmod>
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:4000/articles/panduan-praktis-cara-mengatasi-hama-wereng-coklat-pada-tanaman-padi</loc>
+    <loc>http://localhost:4000/articles/practical-guide-how-to-overcome-brown-planthopper-pests-in-rice-plants</loc>
     <lastmod>2024-07-10</lastmod>
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:4000/articles/mengenal-jenis-hama-dan-penyakit-tanaman-padi-gejala-dampak-dan-strategi-pengendalian-efektif</loc>
+    <loc>http://localhost:4000/articles/practical-guide-how-to-overcome-blast-disease-in-rice-plants</loc>
     <lastmod>2024-07-10</lastmod>
-  </sitemap>
-
-  <sitemap>
-    <loc>http://localhost:4000/articles/strategi-peningkatan-produktivitas-tanaman-jagung-melalui-teknologi-tepat-guna</loc>
-    <lastmod>2024-07-08</lastmod>
   </sitemap>
 
   <sitemap>
@@ -57,12 +52,17 @@
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:4000/articles/rantai-pasok-gabah-di-industri-beras-dari-petani-hingga-pabrik-beras</loc>
+    <loc>http://localhost:4000/articles/corn-productivity-improvement-strategy-through-appropriate-technology</loc>
+    <lastmod>2024-07-08</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/innovation-in-rice-cultivation-advanced-technology-environmentally-friendly-and-precision</loc>
     <lastmod>2024-07-07</lastmod>
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:4000/articles/inovasi-dalam-budidaya-padi-teknologi-maju-ramah-lingkungan-dan-presisi</loc>
+    <loc>http://localhost:4000/articles/grain-supply-chain-in-the-rice-industry-from-farmers-to-rice-mills</loc>
     <lastmod>2024-07-07</lastmod>
   </sitemap>
 
