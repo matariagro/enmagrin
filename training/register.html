@@ -1,0 +1,135 @@
+---
+layout: default
+title: "Pendaftaran Pelatihan Pertanian Matari Agro Indonesia"
+subtitle: Pendaftaran Pelatihan Pertanian
+nav: Pendaftaran
+image: bintek_bojanegara.jpg
+---
+<h1>Formulir Pendaftaran</h1>
+<div class="row">
+   <div class="col-lg-8 col-md-6">
+<form id="my-form" name="pendaftaran" accept-charset="utf-8" action="https://formspree.io/f/mgeglgwp" method="post">
+<div class="row g-3">
+  <div class="col-md-12">
+    <div class="form-floating">
+		    <input type="text" name="name" class="form-control" id="full-name" placeholder="Nama Lengkap" required="">
+			<label for="full-name">Nama Lengkap</label>
+		</div>
+	</div>
+  <div class="col-md-12">
+      <div class="form-floating">
+          <select name="lembaga" class="form-control" id="lembaga" required="">
+              <option value="" selected="" disabled="">Pilih Institusi</option>
+              <option value="Perusahaan">Perusahaan</option>
+              <option value="Dinas/Pemerintah">Dinas/Pemerintah</option>
+              <option value="Non Profit">Non-Profit</option>
+              <option value="Perseorangan">Perseorangan</option>
+          </select>
+      </div>
+  </div>  
+  <div class="col-md-12">
+      <div class="form-floating">
+          <input type="text" name="institusi" class="form-control" id="name" placeholder="Nama Institusi">
+          <label for="institusi">Nama Institusi</label>
+      </div>
+  </div>                                                                  
+  <div class="col-md-12">
+      <div class="form-floating">
+          <input type="text" name="alamat" class="form-control" id="alamat" placeholder="Alamat Lengkap" required="">
+          <label for="alamat">Alamat Lengkap</label>
+      </div>
+  </div>  	
+  <div class="col-md-12">
+    <div class="form-floating">
+		    <input type="telephone" name="telp" class="form-control" id="telp" placeholder="Nomor Telp/HP" required="">
+			<label for="telp">Nomor Telp/HP</label>
+		</div>
+	</div>	
+	<div class="col-md-12">
+        <div class="form-floating">
+		    <input type="email" name="email" class="form-control" id="email" placeholder="Email valid" required="">
+		    <label for="email">Email Valid</label>
+   		</div>
+	</div>
+	<div class="col-md-12">
+        <div class="form-floating">
+		    <select name="pelatihan" class="form-control" id="pelatihan" required="">
+		        <option value="" selected="" disabled="">Pilih Pelatihan</option>
+		        <option value="Pelatihan Pertanian Organik">Pelatihan Pertanian Organik</option>
+		        <option value="Sistem Pengendalian OPT">Sistem Pengendalian Hama Terpadu</option>
+		        <option value="Teknik Tata Kelola Air dan Irigasi">Teknik Tata Kelola Air dan Irigasi</option>
+		        <option value="Penanganan Panen dan PAsca Panen">Penanganan Panen dan Pasca Panen</option>
+		        <option value="Strategi Produk dan Pemasaran Pertanian">Strategi Produk dan Pemasaran Pertanian</option>        
+		    </select>
+		    <label for="pelatihan">Pelatihan yang mau diikuti?</label>
+		</div>
+	</div>
+	<div class="col-md-12">
+        <div class="form-floating"> 
+		    <select name="jumlah" class="form-control" id="jumlah" required="">
+		        <option value="0" selected="">0</option>
+		        <option value="1">1</option>
+		        <option value="2">2</option>
+		        <option value="3">3</option>
+		        <option value="4">4</option>
+		        <option value="5">5</option>
+		        <option value="6">6</option>
+		        <option value="7">7</option>
+		        <option value="8">8</option>
+		        <option value="9">9</option>
+		        <option value="10">10</option>                
+		    </select>
+		    <label for="jumlah">Jumlah Berapa Orang?</label>
+		</div>
+	</div>
+	<div class="col-md-12">
+        <div class="form-floating">		    
+    		<label for="message">Pesan</label><textarea name="message" class="form-control" placeholder="Tuliskan pesan disini" id="message" style="height: 100px"></textarea><label for="message">Pesan</label>
+ 		</div>
+	</div>
+	<div class="col-md-12">
+        <div class="form-floating">        
+    		<input type="hidden" name="_subject" id="email-subject" value="Pendaftaran">
+    	</div>
+    </div>
+  <input type="submit" value="Daftar" class="btn btn-primary py-2 px-2 col-lg-2">
+  <p id="my-form-status"></p>
+</form>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+   <img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.title }}" class="img-fluid rounded img-content-center mb-2" title="Pelatihan Ketahanan Pangan Bidang Perikanan dan Pertanian Desa Bojanegara Kabupaten Purbalingga Jawa Tengah">
+</div>
+</div>
+<script>
+    var form = document.getElementById("my-form");
+    
+    async function handleSubmit(event) {
+      event.preventDefault();
+      var status = document.getElementById("my-form-status");
+      var data = new FormData(event.target);
+      fetch(event.target.action, {
+        method: form.method,
+        body: data,
+        headers: {
+            'Accept': 'application/json'
+        }
+      }).then(response => {
+        if (response.ok) {
+          status.innerHTML = "Terima kasih telah mengirimkan pesan!";
+          form.reset()
+        } else {
+          response.json().then(data => {
+            if (Object.hasOwn(data, 'errors')) {
+              status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+            } else {
+              status.innerHTML = "Oops! Ada masalah isian, periksa kembali"
+            }
+          })
+        }
+      }).catch(error => {
+        status.innerHTML = "Oops! Ada masalah saat kirim, periksa kembali"
+      });
+    }
+    form.addEventListener("submit", handleSubmit)
+</script>

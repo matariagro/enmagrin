@@ -1,0 +1,36 @@
+---
+layout: default
+permalink: /404.html
+title: Hamalan tidak ditemukan
+subtitle: Halaman Tidak Ditemukan
+nav: Error 404
+---
+
+    <div class="container-xxl py-5">
+        <div class="container">           
+            <div class="row g-4">
+            	<div class="col-lg-8 col-md-6">
+
+
+				<h1>Halaman Tidak Ditemukan</h1>
+
+				<p>Halaman tidak ditemukan, silahkan cek kembali URL atau ke <a href="{{ site.url }}">halamana beranda</a> </p>
+
+            	</div>	
+             
+              <div class="col-lg-4 col-md-6">
+              	<h2>Artikel Terbaru</h2>
+              	<ul>
+              	{% for post in site.posts limit:3 %}
+              	<li class="articles-item">
+                <h5><a href="{{ post.url }}">{{ post.title | truncate: 70 }}</a></h5>
+                <img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-thumbnail img-thumb">
+                <p>{{ post.excerpt | strip_html | truncatewords: 17 }}</p>
+                </li>
+                {% endfor %}
+                </ul>                            
+              	<p><a class="btn btn-primary py-2 px-3" href="{{ site.url }}/articles">Lihat lebih banyak</a></p>
+            </div>
+        </div>
+    </div>
+</div>

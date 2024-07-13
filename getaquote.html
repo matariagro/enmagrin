@@ -1,0 +1,124 @@
+---
+layout: default_en
+title: Get A Quote to Matari Agro Indonesia
+subtitle: Get A Quote
+nav: A Quote
+image1: bintek_bojanegara.jpg
+image2: bpn_batang.jpg
+---
+
+    <div class="container-xxl py-5">
+        <div class="container">           
+            <div class="row g-4">
+                <div class="col-lg-8 col-md-6">
+                    <h1>Submit Partnership Offer</h1>
+                    <p>Get ready to change the face of your agriculture! Submit a partnership offer with Matari Agro Indonesia, a trusted partner to realize more productive and sustainable agriculture. With our team of experts ready to present innovative and integrated solutions, we will help you improve your agricultural output. Come, join us in building a bright future for Indonesian agriculture!</p>
+
+                    <form id="my-form" action="https://formspree.io/f/mwkgndlk" method="POST" enctype="multipart/form-data">
+                        <div class="row g-3">
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="text" name="nama" class="form-control" id="name" placeholder="Nama Lengkap" required="">
+                                    <label for="name">Full Name</label>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <select name="lembaga" class="form-control" id="lembaga" required="">
+                                    <option value="" selected="" disabled="">Select Institution</option>
+                                    <option value="Company">Company</option>
+                                    <option value="Government/Agency">Government/Agency</option>
+                                    <option value="Non Profit">Non-Profit</option>
+                                    <option value="Individual">Individual</option>
+                                    </select>
+                                    <label for="training">Select Institution?</label>
+                                </div>
+                            </div>  
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="text" name="institusi" class="form-control" id="name" placeholder="Nama Institusi/Lembaga">
+                                    <label for="institusi">Institution</label>
+                                </div>
+                            </div>                                                                  
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="text" name="alamat" class="form-control" id="alamat" placeholder="Alamat Lengkap" required="">
+                                    <label for="alamat">Full Address</label>
+                                </div>
+                            </div>                            
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="email" name="email" class="form-control" id="email" placeholder="Alamat Email" required="">
+                                    <label for="email">Email Address</label>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="telephone" name="telephone" class="form-control" id="email" placeholder="Telephone/Handphone">
+                                    <label for="telephone" required="">Telephone</label>
+                                </div>
+                            </div>                            
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <input type="text" name="subject" class="form-control" id="subject" placeholder="Subyek" required="">
+                                    <label for="subject">Subject</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <textarea name="message" class="form-control" placeholder="Leave a message here" id="message" style="height: 100px" required=""></textarea>
+                                    <label for="message">Message</label>
+                                </div>
+                            </div>
+                            <!--div class="col-12">                                 
+                                    <input class="form-control" type="file" name="upload" placeholder="Upload" accept="image/png, image/jpeg, application/msword, application/pdf" id="formFileMultiple" multiple><label for="formFileMultiple" class="form-label" for="upload">Upload dokumen</label>
+                            </div-->                            
+                            <div class="col-12">
+                                <button class="btn btn-primary" type="submit">Send</button>
+                            </div>
+                            <p id="my-form-status"></p>   
+                        </div>
+                    </form>
+                </div>
+
+            <div class="col-lg-4 col-md-6">
+                   <img src="{{ site.url }}/img/{{ page.image1 }}" alt="{{ page.title }}" class="img-fluid rounded img-content-center mb-2" title="Pelatihan Ketahanan Pangan Bidang Perikanan dan Pertanian Desa Bojanegara Kabupaten Purbalingga Jawa Tengah">
+                   <img src="{{ site.url }}/img/{{ page.image2 }}" alt="{{ page.title }}" class="img-fluid rounded img-content-center mb-2" title="Diskusi dan assestment perencanaan GTRA BPN Kabupaten Batang Jawa Tengah">
+            </div>
+        </div>
+    </div>
+</div>          
+
+<!-- Place this script at the end of the body tag -->
+<script>
+    var form = document.getElementById("my-form");
+    
+    async function handleSubmit(event) {
+      event.preventDefault();
+      var status = document.getElementById("my-form-status");
+      var data = new FormData(event.target);
+      fetch(event.target.action, {
+        method: form.method,
+        body: data,
+        headers: {
+            'Accept': 'application/json'
+        }
+      }).then(response => {
+        if (response.ok) {
+          status.innerHTML = "<div class=\"alert alert-success\" role=\"alert\">Terima kasih atas pesan Anda!, Kami akan segera meindaklanjuti sesuai dengan prioritas dan urutan yang masuk.</div>";
+          form.reset()
+        } else {
+          response.json().then(data => {
+            if (Object.hasOwn(data, 'errors')) {
+              status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+            } else {
+              status.innerHTML = "<div class=\"alert alert-danger\" role=\"alert\">Oops! Ada masalah pengiriman formulir.</div>"
+            }
+          })
+        }
+      }).catch(error => {
+        status.innerHTML = "<div class=\"alert alert-danger\" role=\"alert\">Oops! Ada masalah pengiriman formulir.</div>"
+      });
+    }
+    form.addEventListener("submit", handleSubmit)
+</script>                    

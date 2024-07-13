@@ -1,0 +1,39 @@
+---
+layout: default_en
+title: News and Articles - Matari Agro Indonesia
+subtitle: Recent News and Articles
+nav: All 
+permalink: /en/articles/
+---
+
+<div class="row gx-0">
+  <h1>artikel english</h1>
+<!-- post list -->
+{% for post in paginator.posts %}
+{% if post.categories contains "en" %}
+<div class="card col-lg-3 col-md-3 col-sm-6 border-0">
+  <div class="card-body">
+    <a href="{{post.url | prepend: site.baseurl}}" title="Lihat Detail"><img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-fluid img-thumbnail"></a>
+    <a href="{{post.url | prepend: site.baseurl}}" title="Lihat Detail"><h5>{{post.title}}</h5></a>
+  </div>
+</div>
+{% endif %}
+{% endfor %}
+
+
+    <!-- Pagination links -->
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">&laquo;</a>
+      {% else %}
+        <span class="previous">&laquo;</span>
+      {% endif %}
+      <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+      {% if paginator.next_page %}
+        <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">&raquo;</a>
+      {% else %}
+        <span class="next ">&raquo;</span>
+      {% endif %}
+    </div>
+
+</div>

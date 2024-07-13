@@ -1,0 +1,59 @@
+<!-- _includes/google_translate.html -->
+<div id="google_translate_element"></div>
+
+<style>
+    .goog-te-banner-frame.skiptranslate {
+        display: none !important;
+    }
+    body {
+        top: 0px !important;
+    }
+    .goog-logo-link {
+        display: none !important;
+    }
+    .goog-te-gadget {
+        color: transparent !important;
+    }
+</style>
+
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({
+            pageLanguage: 'id',
+            includedLanguages: 'en,id',
+            layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+            autoDisplay: false
+        }, 'google_translate_element');
+    }
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script>
+    function changeLanguage() {
+        var googleTranslateFrame = document.querySelector(".goog-te-banner-frame");
+        var currentLanguage = document.querySelector('html').getAttribute('lang');
+        var languageToSwitch = currentLanguage === 'id' ? 'en' : 'id';
+        
+        if (googleTranslateFrame) {
+            var translateFrameDocument = googleTranslateFrame.contentDocument || googleTranslateFrame.contentWindow.document;
+            translateFrameDocument.querySelector(".goog-te-menu-frame").contentDocument.querySelector(`a[lang='${languageToSwitch}']`).click();
+        }
+    }
+
+    function updateFlag() {
+        var currentLanguage = document.querySelector('html').getAttribute('lang');
+        var flagElement = document.getElementById('language-flag');
+        var flagSrc = currentLanguage === 'id' ? '/img/icon/british.png' : '/img/icon/indonesia.png';
+        flagElement.src = flagSrc;
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+        document.getElementById('language-toggle').addEventListener('click', function() {
+            changeLanguage();
+            updateFlag();
+        });
+
+        // Set initial flag
+        updateFlag();
+    });
+</script>
