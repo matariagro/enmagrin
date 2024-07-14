@@ -117,6 +117,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/market-analysis-and-economic-potential-of-organic-farming-in-indonesia</loc>
+    <lastmod>2024-07-01</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/managing-plant-pests-and-diseases-without-pesticides-a-sustainable-organic-approach</loc>
     <lastmod>2024-07-01</lastmod>
   </sitemap>
@@ -127,37 +132,32 @@
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:4000/articles/analisis-pasar-dan-potensi-ekonomi-pertanian-organik-di-indonesia</loc>
-    <lastmod>2024-07-01</lastmod>
-  </sitemap>
-
-  <sitemap>
-    <loc>http://localhost:4000/articles/teknologi-baru-digunakan-untuk-meningkatkan-kualitas-padi</loc>
+    <loc>http://localhost:4000/articles/utilization-of-rice-milling-waste-bran-as-an-alternative-food-source</loc>
     <lastmod>2024-06-29</lastmod>
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:4000/articles/penggilingan-padi-terpadu-kunci-peningkatan-mutu-dan-hasil-agroindustri-padi</loc>
+    <loc>http://localhost:4000/articles/new-technologies-used-to-improve-rice-quality</loc>
     <lastmod>2024-06-29</lastmod>
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:4000/articles/pemanfaatan-limbah-penggilingan-padi-bekatul-sebagai-sumber-pangan-alternatif</loc>
+    <loc>http://localhost:4000/articles/integrated-rice-milling-the-key-to-improving-the-quality-and-yield-of-rice-agroindustry</loc>
     <lastmod>2024-06-29</lastmod>
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:4000/articles/manfaat-dan-potensi-produk-turunan-padi-mendukung-keberlanjutan-pertanian-di-indonesia</loc>
-    <lastmod>2024-06-29</lastmod>
-  </sitemap>
-
-  <sitemap>
-    <loc>http://localhost:4000/articles/harga-gabah-anjlok-petani-menjerit-tantangan-dan-solusi-untuk-keberlanjutan-pertanian</loc>
+    <loc>http://localhost:4000/articles/grain-prices-plunge-farmers-cry-challenges-and-solutions-for-sustainable-agriculture</loc>
     <lastmod>2024-06-29</lastmod>
   </sitemap>
 
   <sitemap>
     <loc>http://localhost:4000/articles/diversifikasi-pangan-strategi-pengurangan-ketergantungan-pada-beras-untuk-ketahanan-pangan</loc>
+    <lastmod>2024-06-29</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/benefits-and-potential-of-rice-derivative-products-supporting-sustainable-agriculture-in-indonesia</loc>
     <lastmod>2024-06-29</lastmod>
   </sitemap>
 

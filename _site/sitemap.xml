@@ -77,87 +77,13 @@
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/analisis-pasar-dan-potensi-ekonomi-pertanian-organik-di-indonesia</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-07-01</news:publication_date>
-                <news:title>Analisis Pasar dan Potensi Ekonomi Pertanian Organik di Indonesia</news:title>
-        </news:news>    
-    </url>
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/teknologi-baru-digunakan-untuk-meningkatkan-kualitas-padi</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-29</news:publication_date>
-                <news:title>Teknologi Baru Digunakan untuk Meningkatkan Kualitas Padi</news:title>
-        </news:news>    
-    </url>
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/penggilingan-padi-terpadu-kunci-peningkatan-mutu-dan-hasil-agroindustri-padi</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-29</news:publication_date>
-                <news:title>Penggilingan Padi Terpadu: Kunci Peningkatan Mutu dan Hasil Agroindustri Padi</news:title>
-        </news:news>    
-    </url>
     
-    
-    
-    <url>
-        <loc>http://localhost:4000/articles/pemanfaatan-limbah-penggilingan-padi-bekatul-sebagai-sumber-pangan-alternatif</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-29</news:publication_date>
-                <news:title>Pemanfaatan Limbah Penggilingan Padi: Bekatul sebagai Sumber Pangan Alternatif</news:title>
-        </news:news>    
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/articles/manfaat-dan-potensi-produk-turunan-padi-mendukung-keberlanjutan-pertanian-di-indonesia</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-29</news:publication_date>
-                <news:title>Manfaat dan Potensi Produk Turunan Padi: Mendukung Keberlanjutan Pertanian di Indonesia</news:title>
-        </news:news>    
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/articles/harga-gabah-anjlok-petani-menjerit-tantangan-dan-solusi-untuk-keberlanjutan-pertanian</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-29</news:publication_date>
-                <news:title>Harga Gabah Anjlok, Petani Menjerit: Tantangan dan Solusi untuk Keberlanjutan Pertanian</news:title>
-        </news:news>    
-    </url>
     
     
     
@@ -172,6 +98,8 @@
                 <news:title>Diversifikasi Pangan: Strategi Pengurangan Ketergantungan pada Beras untuk Ketahanan Pangan</news:title>
         </news:news>    
     </url>
+    
+    
     
     
     

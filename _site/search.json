@@ -231,6 +231,16 @@
     } ,
     
   {
+    "title"    : "Market Analysis and Economic Potential of Organic Farming in Indonesia",
+    "image"    : "/img/organik_sayuran.jpeg",    
+    "category" : "Innovation",
+    "tags"     : "innovative, farming, organic, pesticides, food, security, consultant",
+    "url"      : "/articles/market-analysis-and-economic-potential-of-organic-farming-in-indonesia",
+    "date"     : "2024-07-01 00:00:00 +0700",
+    "desc"     : "Organic farming in Indonesia is currently experiencing rapid growth, driven primarily by increasing awareness of environmental sustainability and the importance of healthy agricultural products for consumers. This development is reflected in the increasing number of farmers switching to organic farming methods, which not only reduce the use of pesticides and chemical fertilizers but also improve the quality of agricultural products. This article will discuss how the organic farming market in Indonesia continues to grow, encompassing its significant economic potential in both global and local contexts."
+    } ,
+    
+  {
     "title"    : "Managing Plant Pests and Diseases Without Pesticides: A Sustainable Organic Approach",
     "image"    : "/img/organik_farm.jpg",    
     "category" : "Innovation",
@@ -251,63 +261,43 @@
     } ,
     
   {
-    "title"    : "Analisis Pasar dan Potensi Ekonomi Pertanian Organik di Indonesia",
-    "image"    : "/img/organik_sayuran.jpeg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, organik, pestisida, konsultan, ketahanan, pangan",
-    "url"      : "/articles/analisis-pasar-dan-potensi-ekonomi-pertanian-organik-di-indonesia",
-    "date"     : "2024-07-01 00:00:00 +0700",
-    "desc"     : "Pertanian organik di Indonesia saat ini sedang mengalami pertumbuhan yang pesat, terutama didorong oleh meningkatnya kesadaran akan keberlanjutan lingkungan dan pentingnya produk pertanian yang sehat bagi konsumen. Perkembangan ini tercermin dari meningkatnya jumlah petani yang beralih ke metode pertanian organik, yang tidak hanya mengurangi penggunaan pestisida dan pupuk kimia tetapi juga meningkatkan kualitas hasil pertanian. Artikel ini akan membahas bagaimana pasar pertanian organik di Indonesia terus berkembang, mencakup potensi ekonominya yang signifikan dalam konteks global dan lokal."
-    } ,
-    
-  {
-    "title"    : "Teknologi Baru Digunakan untuk Meningkatkan Kualitas Padi",
-    "image"    : "/img/padi_protani.jpeg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, turunan, beras, padi, pangan, alternatif, konsultan, ketahanan, pangan",
-    "url"      : "/articles/teknologi-baru-digunakan-untuk-meningkatkan-kualitas-padi",
-    "date"     : "2024-06-29 00:00:00 +0700",
-    "desc"     : "Pertanian padi merupakan sektor penting dalam ekonomi Indonesia, di mana sebagian besar penduduknya menggantungkan hidup dari budidaya tanaman ini. Dalam menghadapi tantangan global seperti perubahan iklim, degradasi lahan, dan kebutuhan pangan yang terus meningkat, para peneliti terus mengembangkan teknologi baru untuk meningkatkan kualitas dan produktivitas padi. PT Matari Agro Indonesia, sebagai pusat layanan konsultan dan pelatihan pertanian terpadu, berkomitmen untuk mendukung petani melalui penerapan teknologi terbaru yang dapat meningkatkan kesejahteraan mereka."
-    } ,
-    
-  {
-    "title"    : "Penggilingan Padi Terpadu: Kunci Peningkatan Mutu dan Hasil Agroindustri Padi",
-    "image"    : "/img/industri_beras.jpg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, beras, deversifikasi, pangan, alternatif, konsultan, ketahanan, pangan",
-    "url"      : "/articles/penggilingan-padi-terpadu-kunci-peningkatan-mutu-dan-hasil-agroindustri-padi",
-    "date"     : "2024-06-29 00:00:00 +0700",
-    "desc"     : "Penggilingan padi merupakan titik sentral dalam agroindustri padi di Indonesia. Saat ini, banyak penggilingan padi masih menggunakan peralatan sederhana dan usang, yang menyebabkan hasil produksi yang relatif rendah. Untuk meningkatkan mutu dan hasil, diperlukan pendekatan sistem agribisnis yang terpadu. Pendekatan ini tidak hanya fokus pada produksi beras berkualitas, tetapi juga melibatkan pengolahan hasil samping seperti tepung beras, produk bihun, pakan ternak, dan briket arang sekam, serta manajemen mutu yang konsisten. Dengan strategi usaha penggilingan padi terpadu, nilai tambah yang dihasilkan dapat berkisar antara Rp 6,4 juta hingga Rp 16,6 juta per hektar."
-    } ,
-    
-  {
-    "title"    : "Pemanfaatan Limbah Penggilingan Padi: Bekatul sebagai Sumber Pangan Alternatif",
+    "title"    : "Utilization of Rice Milling Waste: Bran as an Alternative Food Source",
     "image"    : "/img/bekatul.jpeg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, organik, bekatul, pangan, alternatif, konsultan, ketahanan, pangan",
-    "url"      : "/articles/pemanfaatan-limbah-penggilingan-padi-bekatul-sebagai-sumber-pangan-alternatif",
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, organic, bran, alternative, food, food, security, consultant",
+    "url"      : "/articles/utilization-of-rice-milling-waste-bran-as-an-alternative-food-source",
     "date"     : "2024-06-29 00:00:00 +0700",
-    "desc"     : "Pemanfaatan limbah hasil penggilingan padi adalah salah satu langkah inovatif dalam mendukung ketahanan pangan dan diversifikasi pangan. Bekatul, hasil sampingan dari penggilingan padi, sering kali dianggap remeh padahal memiliki nilai gizi tinggi dan dapat menjadi sumber pangan alternatif. PT Matari Agro Indonesia, melalui layanan konsultan dan pelatihan pertaniannya, berkomitmen untuk mengedukasi masyarakat tentang manfaat dan cara pengolahan bekatul agar dapat dimanfaatkan secara optimal. Artikel ini akan membahas secara mendalam tentang bekatul, mulai dari pengenalan, manfaat, hingga cara pengolahannya."
+    "desc"     : "Utilization of rice milling waste is one of the innovative steps in supporting food security and food diversification. Bran, a by-product of rice milling, is often underestimated even though it has high nutritional value and can be an alternative food source. PT Matari Agro Indonesia, through its agricultural consulting and training services, is committed to educating the public about the benefits and how to process bran so that it can be utilized optimally. This article will discuss in depth about rice bran, starting from its introduction, benefits, to how to process it."
     } ,
     
   {
-    "title"    : "Manfaat dan Potensi Produk Turunan Padi: Mendukung Keberlanjutan Pertanian di Indonesia",
-    "image"    : "/img/bekatul_dedak.jpg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, turunan, beras, deversifikasi, pangan, alternatif, konsultan, ketahanan, pangan",
-    "url"      : "/articles/manfaat-dan-potensi-produk-turunan-padi-mendukung-keberlanjutan-pertanian-di-indonesia",
+    "title"    : "New Technologies Used to Improve Rice Quality",
+    "image"    : "/img/padi_protani.jpeg",    
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, rice, derivatives, rice, alternative, food, food, security, consultant",
+    "url"      : "/articles/new-technologies-used-to-improve-rice-quality",
     "date"     : "2024-06-29 00:00:00 +0700",
-    "desc"     : "Pertanian padi di Indonesia tidak hanya menyediakan beras sebagai hasil utamanya, tetapi juga menghasilkan beragam produk turunan yang memiliki potensi besar untuk mendukung keberlanjutan pertanian dan industri lainnya. Produk turunan seperti sekam, bekatul, tepung padi, dan dedak memiliki nilai tambah yang signifikan dalam berbagai aspek ekonomi dan lingkungan. Sekam, misalnya, tidak hanya digunakan sebagai bahan bakar untuk pengeringan gabah tetapi juga diolah menjadi pupuk biosilika cair yang meningkatkan produktivitas pertanian secara berkelanjutan."
+    "desc"     : "Rice farming is an important sector in the Indonesian economy, where the majority of the population depends on cultivating this crop for their livelihood. In facing global challenges such as climate change, land degradation, and increasing food needs, researchers continue to develop new technologies to improve the quality and productivity of rice. PT Matari Agro Indonesia, as an integrated agricultural consulting and training service center, is committed to supporting farmers through the application of the latest technologies that can improve their welfare."
     } ,
     
   {
-    "title"    : "Harga Gabah Anjlok, Petani Menjerit: Tantangan dan Solusi untuk Keberlanjutan Pertanian",
+    "title"    : "Integrated Rice Milling: The Key to Improving the Quality and Yield of Rice Agroindustry",
+    "image"    : "/img/industri_beras.jpg",    
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, rice, alternative, food, diversification, food, security, consultant",
+    "url"      : "/articles/integrated-rice-milling-the-key-to-improving-the-quality-and-yield-of-rice-agroindustry",
+    "date"     : "2024-06-29 00:00:00 +0700",
+    "desc"     : "Rice milling is the central point in the rice agroindustry in Indonesia. Currently, many rice mills still use simple and outdated equipment, which results in relatively low production results. To improve quality and yield, an integrated agribusiness system approach is needed. This approach not only focuses on the production of quality rice, but also involves the processing of by-products such as rice flour, vermicelli products, animal feed, and rice husk charcoal briquettes, as well as consistent quality management. With an integrated rice milling business strategy, the added value generated can range from IDR 6.4 million to IDR 16.6 million per hectare."
+    } ,
+    
+  {
+    "title"    : "Grain Prices Plunge, Farmers Cry: Challenges and Solutions for Sustainable Agriculture",
     "image"    : "/img/gabah_panen.jpg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, turunan, beras, padi, pangan, alternatif, konsultan, ketahanan, pangan",
-    "url"      : "/articles/harga-gabah-anjlok-petani-menjerit-tantangan-dan-solusi-untuk-keberlanjutan-pertanian",
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, rice, derivatives, rice, alternative, food, food, security, consultant",
+    "url"      : "/articles/grain-prices-plunge-farmers-cry-challenges-and-solutions-for-sustainable-agriculture",
     "date"     : "2024-06-29 00:00:00 +0700",
-    "desc"     : "Pertanian merupakan sektor penting dalam ekonomi Indonesia, dan padi adalah salah satu komoditas utama yang diandalkan oleh jutaan petani. Namun, harga gabah yang anjlok dalam beberapa pekan terakhir telah menyebabkan kepanikan di kalangan petani. Di berbagai daerah, harga gabah mengalami penurunan signifikan, membuat para petani kesulitan untuk menutupi biaya produksi dan mendapatkan keuntungan yang layak. Kondisi ini memicu kekhawatiran akan masa depan pertanian padi di Indonesia dan keberlanjutan hidup para petani kecil."
+    "desc"     : "Agriculture is an important sector in the Indonesian economy, and rice is one of the main commodities relied upon by millions of farmers. However, the plunge in grain prices in recent weeks has caused panic among farmers. In various regions, grain prices have fallen significantly, making it difficult for farmers to cover production costs and earn decent profits. This condition raises concerns about the future of rice farming in Indonesia and the sustainability of small farmers’ livelihoods."
     } ,
     
   {
@@ -318,6 +308,16 @@
     "url"      : "/articles/diversifikasi-pangan-strategi-pengurangan-ketergantungan-pada-beras-untuk-ketahanan-pangan",
     "date"     : "2024-06-29 00:00:00 +0700",
     "desc"     : "Diversifikasi pangan adalah strategi penting yang dirancang untuk mengurangi ketergantungan pada satu jenis makanan, seperti beras, guna memperkuat ketahanan pangan nasional. Di Indonesia, konsumsi beras mencapai angka yang sangat tinggi, yaitu 94,9 kg per kapita per tahun. Tingginya ketergantungan masyarakat pada beras menimbulkan risiko terhadap stabilitas pangan, terutama jika terjadi gangguan pada produksi atau distribusi beras. Oleh karena itu, gerakan diversifikasi pangan sangat diperlukan untuk mengajak masyarakat mengonsumsi sumber karbohidrat lokal nonberas seperti jagung, ubi jalar, sagu, dan talas."
+    } ,
+    
+  {
+    "title"    : "Benefits and Potential of Rice Derivative Products: Supporting Sustainable Agriculture in Indonesia",
+    "image"    : "/img/bekatul_dedak.jpg",    
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, rice, derivatives, alternative, food, diversification, food, security, consultant",
+    "url"      : "/articles/benefits-and-potential-of-rice-derivative-products-supporting-sustainable-agriculture-in-indonesia",
+    "date"     : "2024-06-29 00:00:00 +0700",
+    "desc"     : "Rice farming in Indonesia not only provides rice as its main product, but also produces various derivative products that have great potential to support the sustainability of agriculture and other industries. Derivative products such as rice husk, rice bran, rice flour, and rice bran have significant added value in various economic and environmental aspects. Rice husks, for example, are not only used as fuel for drying rice but are also processed into liquid biosilica fertilizer that increases agricultural productivity sustainably."
     } ,
     
   {
