@@ -75,171 +75,27 @@
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/cara-menanam-labu-siam-dalam-pot-panduan-praktis-untuk-berkebun-di-lahan-terbatas</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-24</news:publication_date>
-                <news:title>Cara Menanam Labu Siam dalam Pot: Panduan Praktis untuk Berkebun di Lahan Terbatas</news:title>
-        </news:news>    
-    </url>
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/tips-sukses-bertani-hidroponik-untuk-pemula</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-23</news:publication_date>
-                <news:title>Tips Sukses Bertani Hidroponik untuk Pemula</news:title>
-        </news:news>    
-    </url>
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/strategi-pemasaran-produk-pertanian-secara-online-di-era-digital</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-23</news:publication_date>
-                <news:title>Strategi Pemasaran Produk Pertanian Secara Online di Era Digital</news:title>
-        </news:news>    
-    </url>
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/penggunaan-teknologi-dalam-pertanian-untuk-meningkatkan-kualitas-hasil-panen</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-23</news:publication_date>
-                <news:title>Penggunaan Teknologi dalam Pertanian untuk Meningkatkan Kualitas Hasil Panen</news:title>
-        </news:news>    
-    </url>
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/peluang-bisnis-menguntungkan-dari-bertani-sayuran-organik</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-23</news:publication_date>
-                <news:title>Peluang Bisnis Menguntungkan dari Bertani Sayuran Organik</news:title>
-        </news:news>    
-    </url>
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/panduan-menanam-cabai-rawit-di-pot-agar-berbuah-lebat</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-23</news:publication_date>
-                <news:title>Panduan Menanam Cabai Rawit di Pot Agar Berbuah Lebat</news:title>
-        </news:news>    
-    </url>
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/9-ide-peluang-usaha-di-bidang-pertanian,-apa-saja</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-21</news:publication_date>
-                <news:title>9 Ide Peluang Usaha di Bidang Pertanian, Apa Saja?</news:title>
-        </news:news>    
-    </url>
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/strategi-pengelolaan-air-dalam-pertanian-cara-cara-efisien-untuk-mengelola-sumber-daya-air-di-lahan-pertanian</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-19</news:publication_date>
-                <news:title>Strategi Pengelolaan Air dalam Pertanian: Cara-cara Efisien untuk Mengelola Sumber Daya Air di Lahan Pertanian</news:title>
-        </news:news>    
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/articles/dampak-perubahan-iklim-terhadap-pertanian-analisis-dan-langkah-langkah-adaptasi</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-19</news:publication_date>
-                <news:title>Dampak Perubahan Iklim terhadap Pertanian: Analisis dan Langkah-Langkah Adaptasi</news:title>
-        </news:news>    
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/articles/cara-ampuh-membasmi-hama-dan-penyakit-pada-tanaman-padi</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-18</news:publication_date>
-                <news:title>Cara Ampuh Membasmi Hama dan Penyakit pada Tanaman Padi</news:title>
-        </news:news>    
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/articles/strategi-pengendalian-tungro-pada-tanaman-padi-untuk-pertanian-berkelanjutan</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-11</news:publication_date>
-                <news:title>Strategi Pengendalian Tungro pada Tanaman Padi untuk Pertanian Berkelanjutan</news:title>
-        </news:news>    
-    </url>
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/articles/solusi-pertanian-cerdas-untuk-meningkatkan-produksi-beras-di-tengah-perubahan-iklim</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-06-11</news:publication_date>
-                <news:title>Solusi Pertanian Cerdas untuk Meningkatkan Produksi Beras di Tengah Perubahan Iklim</news:title>
-        </news:news>    
-    </url>
     
     
     
