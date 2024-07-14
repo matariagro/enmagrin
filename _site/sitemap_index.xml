@@ -42,17 +42,17 @@
   </sitemap>
 
   <sitemap>
-    <loc>http://localhost:4000/articles/peluang-agribisnis-dan-pemanfaatan-hasil-panen-tanaman-jagung</loc>
-    <lastmod>2024-07-08</lastmod>
-  </sitemap>
-
-  <sitemap>
-    <loc>http://localhost:4000/articles/panduan-praktis-untuk-petani-jagung-dari-benih-berkualitas-hingga-panen-melimpah</loc>
+    <loc>http://localhost:4000/articles/practical-guide-for-corn-farmers-from-quality-seeds-to-bountiful-harvests</loc>
     <lastmod>2024-07-08</lastmod>
   </sitemap>
 
   <sitemap>
     <loc>http://localhost:4000/articles/corn-productivity-improvement-strategy-through-appropriate-technology</loc>
+    <lastmod>2024-07-08</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/agribusiness-opportunities-and-utilization-of-corn-crop-results</loc>
     <lastmod>2024-07-08</lastmod>
   </sitemap>
 

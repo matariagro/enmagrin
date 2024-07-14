@@ -81,23 +81,13 @@
     } ,
     
   {
-    "title"    : "Peluang Agribisnis dan Pemanfaatan Hasil Panen Tanaman Jagung",
-    "image"    : "/img/panen_jagung.jpeg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, agribisnis, jagung, konsultan, ketahanan, pangan",
-    "url"      : "/articles/peluang-agribisnis-dan-pemanfaatan-hasil-panen-tanaman-jagung",
-    "date"     : "2024-07-08 00:00:00 +0700",
-    "desc"     : "Agribisnis tanaman jagung merupakan sektor yang sangat potensial dalam perekonomian Indonesia. Sebagai negara agraris, mayoritas penduduk Indonesia bergantung pada sektor pertanian, yang tidak hanya menyediakan sumber pangan utama tetapi juga menjadi mata pencaharian utama bagi jutaan petani. Dengan berbagai peluang yang ada, sektor agribisnis tanaman jagung memiliki potensi besar untuk meningkatkan kesejahteraan petani dan mendorong produktivitas nasional. Melalui diversifikasi produk dan peningkatan nilai tambah, agribisnis dapat menjadi motor penggerak perekonomian yang lebih inklusif dan berkelanjutan."
-    } ,
-    
-  {
-    "title"    : "Panduan Praktis untuk Petani Jagung: Dari Benih Berkualitas hingga Panen Melimpah",
+    "title"    : "Practical Guide for Corn Farmers: From Quality Seeds to Bountiful Harvests",
     "image"    : "/img/trik_jagung.jpg",    
-    "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, agribisnis, jagung, konsultan, ketahanan, pangan",
-    "url"      : "/articles/panduan-praktis-untuk-petani-jagung-dari-benih-berkualitas-hingga-panen-melimpah",
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, agribusiness, corn, food, security, consultant",
+    "url"      : "/articles/practical-guide-for-corn-farmers-from-quality-seeds-to-bountiful-harvests",
     "date"     : "2024-07-08 00:00:00 +0700",
-    "desc"     : "Jagung merupakan salah satu komoditas pertanian penting di Indonesia, tidak hanya sebagai sumber pangan tetapi juga sebagai bahan baku industri. Keberhasilan dalam budidaya jagung dapat memberikan keuntungan ekonomi yang signifikan bagi petani. Artikel ini memberikan panduan lengkap dan praktis untuk petani, mulai dari cara memilih benih berkualitas hingga teknik perawatan dan pengendalian hama secara alami. Diharapkan, dengan menerapkan tips dan trik yang disajikan, para petani dapat meningkatkan produktivitas dan kualitas hasil panen jagung mereka."
+    "desc"     : "Corn is one of the important agricultural commodities in Indonesia, not only as a source of food but also as a raw material for industry. Success in corn cultivation can provide significant economic benefits for farmers. This article provides a complete and practical guide for farmers, from how to choose quality seeds to natural care and pest control techniques. It is hoped that by applying the tips and tricks presented, farmers can increase the productivity and quality of their corn harvests."
     } ,
     
   {
@@ -108,6 +98,16 @@
     "url"      : "/articles/corn-productivity-improvement-strategy-through-appropriate-technology",
     "date"     : "2024-07-08 00:00:00 +0700",
     "desc"     : "The use of appropriate technology in corn cultivation has great potential to significantly increase productivity. Technologies such as sensor-based monitoring systems allow farmers to monitor land and crop conditions in real-time, so they can identify problems such as water shortages or pest attacks early and take necessary action quickly. With better monitoring, farmers can optimize the use of resources and ensure their crops grow in the best conditions."
+    } ,
+    
+  {
+    "title"    : "Agribusiness Opportunities and Utilization of Corn Crop Results",
+    "image"    : "/img/panen_jagung.jpeg",    
+    "category" : "Innovation",
+    "tags"     : "innovative, agriculture, corn, agribusiness, food, security, consultant",
+    "url"      : "/articles/agribusiness-opportunities-and-utilization-of-corn-crop-results",
+    "date"     : "2024-07-08 00:00:00 +0700",
+    "desc"     : "Corn crop agribusiness is a very potential sector in the Indonesian economy. As an agricultural country, the majority of Indonesia’s population depends on the agricultural sector, which not only provides the main source of food but also becomes the main livelihood for millions of farmers. With various opportunities available, the corn crop agribusiness sector has great potential to improve farmer welfare and boost national productivity. Through product diversification and increasing added value, agribusiness can become a driving force for a more inclusive and sustainable economy."
     } ,
     
   {

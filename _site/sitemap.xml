@@ -19,31 +19,7 @@
     
     
     
-    <url>
-        <loc>http://localhost:4000/articles/peluang-agribisnis-dan-pemanfaatan-hasil-panen-tanaman-jagung</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-07-08</news:publication_date>
-                <news:title>Peluang Agribisnis dan Pemanfaatan Hasil Panen Tanaman Jagung</news:title>
-        </news:news>    
-    </url>
     
-    
-    
-    <url>
-        <loc>http://localhost:4000/articles/panduan-praktis-untuk-petani-jagung-dari-benih-berkualitas-hingga-panen-melimpah</loc>
-        <news:news>
-            <news:publication>
-                <news:name>Matariagro.com</news:name>
-                <news:language>id</news:language>
-            </news:publication>
-                <news:publication_date>2024-07-08</news:publication_date>
-                <news:title>Panduan Praktis untuk Petani Jagung: Dari Benih Berkualitas hingga Panen Melimpah</news:title>
-        </news:news>    
-    </url>
     
     
     
