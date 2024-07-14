@@ -931,6 +931,34 @@
 
   
     <sitemap>
+      <loc>http://localhost:4000/consulting/agricultural-business-management-consulting-guiding-you-towards-agricultural-business-succes</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/investing/agricultural-investment-planning-maximizing-profit-potential-in-the-agricultural-industry</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/training/agricultural-technical-training-developing-your-skills-in-sustainable-agriculture</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/agrotourism/agrotourism-development-exploring-the-beauty-of-agriculture-and-supporting-local-farmers</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
       <loc>http://localhost:4000/en/agrotourism</loc>
       <lastmod></lastmod>
     </sitemap>
@@ -952,14 +980,14 @@
 
   
     <sitemap>
-      <loc>http://localhost:4000/contact</loc>
+      <loc>http://localhost:4000/en/contact</loc>
       <lastmod></lastmod>
     </sitemap>
   
 
   
     <sitemap>
-      <loc>http://localhost:4000/en/contact</loc>
+      <loc>http://localhost:4000/contact</loc>
       <lastmod></lastmod>
     </sitemap>
   
@@ -980,7 +1008,28 @@
 
   
     <sitemap>
+      <loc>http://localhost:4000/en/project/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
       <loc>http://localhost:4000/en/services/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/en/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/en/experts/</loc>
       <lastmod></lastmod>
     </sitemap>
   
@@ -1008,34 +1057,6 @@
 
   
     <sitemap>
-      <loc>http://localhost:4000/en/experts/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/en/project/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/about/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/en/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
       <loc>http://localhost:4000/services/</loc>
       <lastmod></lastmod>
     </sitemap>
@@ -1057,21 +1078,7 @@
 
   
     <sitemap>
-      <loc>http://localhost:4000/varieties/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/consulting/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/training/</loc>
+      <loc>http://localhost:4000/about/</loc>
       <lastmod></lastmod>
     </sitemap>
   
@@ -1092,7 +1099,28 @@
 
   
     <sitemap>
+      <loc>http://localhost:4000/training/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
       <loc>http://localhost:4000/agrotourism/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/consulting/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/varieties/</loc>
       <lastmod></lastmod>
     </sitemap>
   
@@ -1113,48 +1141,6 @@
 
   
     <sitemap>
-      <loc>http://localhost:4000/consulting/konsultasi-manajemen-usaha-pertanian-membimbing-anda-menuju-kesuksesan-bisnis-pertanian</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/varieties/konsultasi-varietas-tanaman-unggul-optimalisasi-hasil-pertanian-anda</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/training/pelatihan-teknis-pertanian-mengembangkan-kemampuan-anda-dalam-pertanian-berkelanjutan</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/agrotourism/pengembangan-agrowisata-menjelajahi-keindahan-pertanian-dan-mendukung-petani-lokal</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/pestcontrol/pengendalian-hama-dan-penyakit-tanaman-meningkatkan-produktivitas-dan-kualitas-panen-anda</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/investing/perencanaan-investasi-pertanian-maksimalkan-potensi-keuntungan-dalam-industri-pertanian</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
       <loc>http://localhost:4000/en/pestcontrol</loc>
       <lastmod></lastmod>
     </sitemap>
@@ -1162,7 +1148,7 @@
 
   
     <sitemap>
-      <loc>http://localhost:4000/privacy</loc>
+      <loc>http://localhost:4000/pestcontrol/plant-pest-and-disease-control-increasing-your-productivity-and-harvest-quality</loc>
       <lastmod></lastmod>
     </sitemap>
   
@@ -1170,6 +1156,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/en/privacy</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/privacy</loc>
       <lastmod></lastmod>
     </sitemap>
   
@@ -1205,6 +1198,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/sitemap_index.xml</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/varieties/superior-plant-varieties-consultation-optimizing-your-agricultural-results</loc>
       <lastmod></lastmod>
     </sitemap>
   
