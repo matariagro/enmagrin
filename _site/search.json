@@ -1771,6 +1771,16 @@
     } ,
     
   {
+    "title"    : "Some reasons why people choose Matari Agro Indonesia",
+    "image"    : "/img/diseminasi_iptek.jpg",    
+    "category" : "",
+    "tags"     : "",
+    "url"      : "/articles/some-reasons-why-people-choose-matari-agro-indonesia",
+    "date"     : "2024-03-25 00:00:00 +0700",
+    "desc"     : "Known for its technological excellence and innovation, Matari Agro Indonesia is the main choice in agricultural services. From plant breeding to modern cultivation techniques, we always introduce leading solutions for farmers to increase their productivity and profitability. Our commitment to utilizing the latest technology and best practices is reflected in every service, providing optimal results to our customers."
+    } ,
+    
+  {
     "title"    : "Menuju Industri Pertanian Modern: Transformasi untuk Meningkatkan Produktivitas",
     "image"    : "/img/combine_harvester.jpg",    
     "category" : "",
@@ -1818,16 +1828,6 @@
     "url"      : "/articles/inovasi-pertanian-berkelanjutan-mengangkat-produktivitas-dan-kesejahteraan",
     "date"     : "2024-03-25 00:00:00 +0700",
     "desc"     : "Meningkatkan Skala Produksi Pertanian Melalui Inovasi"
-    } ,
-    
-  {
-    "title"    : "Beberapa alasan orang memilih Matari Agro Indonesia",
-    "image"    : "/img/diseminasi_iptek.jpg",    
-    "category" : "",
-    "tags"     : "",
-    "url"      : "/articles/beberapa-alasan-orang-memilih-matari-agro-indonesia",
-    "date"     : "2024-03-25 00:00:00 +0700",
-    "desc"     : "Dikenal karena keunggulan teknologi dan inovasinya, Matari Agro Indonesia menjadi pilihan utama dalam layanan pertanian. Mulai dari pemuliaan tanaman hingga teknik budidaya modern, kami selalu memperkenalkan solusi terdepan bagi petani untuk meningkatkan produktivitas dan profitabilitas mereka. Komitmen kami terhadap pemanfaatan teknologi terkini dan praktik terbaik tercermin dalam setiap layanan, memberikan hasil optimal kepada pelanggan kami."
     } ,
     
   {

@@ -887,6 +887,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/some-reasons-why-people-choose-matari-agro-indonesia</loc>
+    <lastmod>2024-03-25</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/menuju-industri-pertanian-modern-transformasi-untuk-meningkatkan-produktivitas</loc>
     <lastmod>2024-03-25</lastmod>
   </sitemap>
@@ -908,11 +913,6 @@
 
   <sitemap>
     <loc>http://localhost:4000/articles/inovasi-pertanian-berkelanjutan-mengangkat-produktivitas-dan-kesejahteraan</loc>
-    <lastmod>2024-03-25</lastmod>
-  </sitemap>
-
-  <sitemap>
-    <loc>http://localhost:4000/articles/beberapa-alasan-orang-memilih-matari-agro-indonesia</loc>
     <lastmod>2024-03-25</lastmod>
   </sitemap>
 
