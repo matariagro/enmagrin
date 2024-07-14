@@ -6,7 +6,6 @@ layout: null
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     {% for post in site.posts %}
-    {% if post.lang == 'id' %}
     <url>
         <loc>{{ site.url }}{{ post.url }}</loc>
         <news:news>
@@ -18,6 +17,5 @@ layout: null
                 <news:title>{{ post.title }}</news:title>
         </news:news>    
     </url>
-    {% endif %}
     {% endfor %} 
 </urlset>
