@@ -5,7 +5,7 @@ subtitle: Sustainable Agricultural Innovation
 nav: Article
 keyword: "agricultural innovation, modern technology, sustainable approach, Matari Agro Indonesia"
 desk: "Discover how innovation in agriculture contributes to increased efficiency and productivity. Contact Matari Agro Indonesia for technical consultation and training"
-image: sustainable.jpg
+image: berkelanjutan.jpg
 ---
 
 ### Increasing the Scale of Agricultural Production Through Innovation
