@@ -1,0 +1,75 @@
+---
+layout: default_en
+---
+
+         
+<div class="row g-4">
+  <div class="col-lg-8 col-md-6">
+    <article>
+      <header>
+        <h1>{{ page.title }}</h1>
+        <!--p>{{ page.date | date: "%d %B %Y" }}</p-->
+      </header>
+
+      <img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.title }}" class="img-fluid rounded img-articles">
+
+      {{ content }}
+    </article>
+                            <ul class="list-inline">
+                                <span class="share">Bagikan </span>
+                                <li class="list-inline-item">
+                                    <a class="btn btn-social-o facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank">
+                                        <i class="fab fa-facebook-f"></i>
+                                        <span>facebook</span>
+                                    </a>
+
+                                </li>
+                                <li class="list-inline-item">
+                                    <a class="btn btn-social-o twitter" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank">
+                                        <i class="fab fa-twitter"></i>
+                                        <span>twitter</span>
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a class="btn btn-social-o whatsapp" href="https://wa.me/?text={{ page.title }}%20{{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank">
+                                        <i class="fab fa-whatsapp"></i>
+                                        <span>whatsapp</span>
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a class="btn btn-social-o telegram" href="https://t.me/share/url?url={{ site.url }}{{ site.baseurl }}{{ page.url }}&text={{ page.title }}" target="_blank">
+                                        <i class="fab fa-telegram"></i>
+                                        <span>telegram</span>
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a class="btn btn-linkedin-o linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title }}" target="_blank">
+                                        <i class="fab fa-linkedin"></i>
+                                        <span>linkedin</span>
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a class="btn btn-linkedin-o email" href="mailto:?subject={{ page.title }}&amp;body=Check out this site {{ site.url }}{{ site.baseurl }}{{ page.url }}" target="_blank">
+                                        <i class="fa fa-envelope"></i>
+                                        <span>email</span>
+                                    </a>
+                                </li>                                
+                            </ul>    
+    <div class="fb-comments" data-href="{{ post.url }}" data-width="100%" data-numposts="5"></div>
+  </div>
+  <div class="col-lg-4 col-md-6">
+      <h2>Other Articles</h2>
+      <ul class="post-list">     
+      {% for post in site.posts limit:5 %}
+      {% if post.lang == 'en' %}
+      <li class="articles-item">
+      <h5><a href="{{ post.url }}" title="Lihat Detail">{{ post.title | truncate: 70 }}</a></h5>
+      <a href="{{post.url | prepend: site.baseurl}}" title="Lihat Detail"><img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-thumbnail img-thumb"></a>
+      <p>{{ post.excerpt | strip_html | truncatewords: 17 }}</p>
+      </li>
+      {% endif %}
+      {% endfor %}
+      </ul>
+      <a class="btn btn-primary mt-4 py-6 px-6 col-md-6 mx-auto" href="{{ site.url }}/articles">Lihat lebih banyak</a>                            
+  </div>
+</div>

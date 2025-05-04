@@ -1,0 +1,95 @@
+---
+layout: default_en
+title: Contact - Matari Agro Indonesia
+subtitle: Contact Informasi
+nav: Contact
+---
+
+            <div class="row g-5">
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                    <p class="fs-5 fw-bold text-primary">{{ page.subtitle }}</p>
+                    <h1 class="display-5 mb-5">If You Have Any Questions, Please Contact Us</h1>
+                    <p class="mb-4">If you need information and activity submissions, you can contact us via the form below, or you can directly use WhatsApp directly via the green button in the lower right corner.</p>
+                    <form id="my-form" name="form-contact" action="https://formspree.io/f/xleqwvad" method="POST">
+                        <div class="row g-3">
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="text" name="nama" class="form-control" id="name" placeholder="Nama Lengkap">
+                                    <label for="name">Full Name</label>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="email" name="email" class="form-control" id="email" placeholder="Alamat Email">
+                                    <label for="email">Email Address</label>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="telephone" name="telephone" class="form-control" id="email" placeholder="Telephone/Handphone">
+                                    <label for="telephone">Telephone</label>
+                                </div>
+                            </div>                            
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <input type="text" name="subject" class="form-control" id="subject" placeholder="Subyek">
+                                    <label for="subject">Subject</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <textarea name="message" class="form-control" placeholder="Leave a message here" id="message" style="height: 100px"></textarea>
+                                    <label for="message">Message</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <button class="btn btn-primary py-3 px-4" type="submit">Send</button>
+                            </div>
+                            <p id="my-form-status"></p>
+                        </div>
+                    </form>
+                </div>
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s" style="min-height: 450px;">
+                    <h4 class="display-7 mt-5 mb-2">PT. Matari Agro Indonesia</h4>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Jl. Wirdyodihardjo 13 Purwokerto</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+62 822 2017 5779</p>
+                    <p class="mb-4"><i class="fa fa-envelope me-3"></i>info@matariagro.com</p>                    
+                    <div class="position-relative rounded overflow-hidden h-100">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15825.967673335885!2d109.2479191!3d-7.4106798!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e655fbed173649b%3A0x5e66addaf3538526!2sPT.%20Matari%20Agro%20Indonesia!5e0!3m2!1sen!2sid!4v1711266932949!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+            </div>
+             
+<!-- Place this script at the end of the body tag -->
+<script>
+    var form = document.getElementById("my-form");
+    
+    async function handleSubmit(event) {
+      event.preventDefault();
+      var status = document.getElementById("my-form-status");
+      var data = new FormData(event.target);
+      fetch(event.target.action, {
+        method: form.method,
+        body: data,
+        headers: {
+            'Accept': 'application/json'
+        }
+      }).then(response => {
+        if (response.ok) {
+          status.innerHTML = "<div class=\"alert alert-success\" role=\"alert\">Terima kasih atas pesan Anda!, Kami akan segera meindaklanjuti sesuai dengan prioritas dan urutan yang masuk.</div>";
+          form.reset()
+        } else {
+          response.json().then(data => {
+            if (Object.hasOwn(data, 'errors')) {
+              status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+            } else {
+              status.innerHTML = "<div class=\"alert alert-danger\" role=\"alert\">Oops! Ada masalah pengiriman formulir.</div>"
+            }
+          })
+        }
+      }).catch(error => {
+        status.innerHTML = "<div class=\"alert alert-danger\" role=\"alert\">Oops! Ada masalah pengiriman formulir.</div>"
+      });
+    }
+    form.addEventListener("submit", handleSubmit)
+</script>    

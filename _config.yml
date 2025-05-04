@@ -1,0 +1,7 @@
+name: Matari Agro Indonesia, Konsultan dan Pusat Pelatihan Pertanian
+markdown: kramdown
+permalink: /articles/:title
+
+plugins: [jekyll-paginate]
+paginate: 12
+paginate_path: /articles/page:num/
